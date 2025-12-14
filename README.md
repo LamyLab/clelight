@@ -1,5 +1,5 @@
 # clelight
-This page gives details about the CleLight brain clearing protocol <br><br>
+This page gives details about the CleLight brain clearing method <br><br>
 ![Cerebellum_CleLight](https://lamylab.github.io/clelight/Cerebellum_CleLight.jpg)
 <br><br>
 :newspaper: Original Brain Clelight publication ([Here](https://www.biorxiv.org/content/10.64898/2025.12.10.693496v1)) <br>
